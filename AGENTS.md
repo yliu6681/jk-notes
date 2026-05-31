@@ -183,3 +183,17 @@ jk-notes/
 - **禁止**删除或覆盖已有 `id` 的知识条目，只能追加或更新状态
 - **禁止**向外部服务发送未标记 `reviewed` 的条目
 - **禁止**在日志中输出任何密钥或用户隐私数据
+
+## Agent skills
+
+### Issue tracker
+
+Issues tracked on GitHub (yliu6681/jk-notes). See `docs/agents/issue-tracker.md`.
+
+### Triage labels
+
+Default five-role label vocabulary. See `docs/agents/triage-labels.md`.
+
+### Domain docs
+
+Single-context layout. See `docs/agents/domain.md`.
