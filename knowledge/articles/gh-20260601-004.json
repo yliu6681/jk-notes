@@ -1,0 +1,24 @@
+{
+  "id": "gh-20260601-004",
+  "title": "Genesis World：面向具身 AI 的统一多物理仿真平台 v1.0.0",
+  "source_url": "https://github.com/Genesis-Embodied-AI/genesis-world",
+  "source_type": "github_trending",
+  "summary": "面向通用机器人与具身 AI 学习的开源仿真平台，集成统一多物理引擎（刚体/FEM/MPM/粒子/SPH/PBD/IPC）、照片级渲染器 Nyx 和跨平台编译器 Quadrants。v1.0.0 刚发布，Quadrants 支持 CUDA/ROCm/Metal/Vulkan/x86/ARM64 多后端自动微分。",
+  "tags": ["embodied-ai", "simulation", "robotics", "physics-engine", "genesis"],
+  "category": "framework_update",
+  "status": "draft",
+  "collected_at": "2026-06-01T08:00:00Z",
+  "reviewed_at": null,
+  "published_at": null,
+  "metadata": {
+    "score": 9,
+    "highlights": [
+      "统一多物理引擎耦合，行业首创",
+      "Quadrants 编译器跨六大硬件后端",
+      "v1.0.0 正式发布，学术项目升级为公司级产品"
+    ],
+    "popularity": "29108 stars",
+    "related_ids": [],
+    "review_note": null
+  }
+}

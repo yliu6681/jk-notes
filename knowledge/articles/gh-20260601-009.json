@@ -1,0 +1,24 @@
+{
+  "id": "gh-20260601-009",
+  "title": "Academic Research Skills：Claude Code 学术研究全流程技能套件",
+  "source_url": "https://github.com/Imbad0202/academic-research-skills",
+  "source_type": "github_trending",
+  "summary": "面向 Claude Code 的学术研究全流程技能套件，覆盖研究→写作→审阅→修改→定稿五阶段。含 13/12/7 Agent 团队和 10 阶段流水线。核心特色：三索引交叉验证引文真实性、L3 声明-引文一致性审计、反框架锁定和反谄媚机制、写作风格校准。CC BY-NC 4.0。",
+  "tags": ["academic-writing", "claude-code", "research", "skills"],
+  "category": "tool",
+  "status": "draft",
+  "collected_at": "2026-06-01T08:00:00Z",
+  "reviewed_at": null,
+  "published_at": null,
+  "metadata": {
+    "score": 7,
+    "highlights": [
+      "三索引交叉验证引文真实性，应对 AI 幻觉引用",
+      "10 阶段流水线含强制完整性门控，不可跳过",
+      "反框架锁定+反谄媚机制，解决 AI 辅助写作深层缺陷"
+    ],
+    "popularity": "24991 stars",
+    "related_ids": [],
+    "review_note": null
+  }
+}

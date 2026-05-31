@@ -1,0 +1,24 @@
+{
+  "id": "gh-20260601-001",
+  "title": "Anthropic Skills：Agent Skills 行业规范与公共技能仓库",
+  "source_url": "https://github.com/anthropics/skills",
+  "source_type": "github_trending",
+  "summary": "Anthropic 官方发布的 Agent Skills 公共仓库，定义了可被 Claude 动态加载的技能模块标准（SKILL.md + 资源文件夹）。涵盖创意设计、开发工具、企业工作流和文档处理四类示例技能，并发布了 Agent Skills 规范（agentskills.io）。技能可直接在 Claude Code、Claude.ai 及 API 中使用。",
+  "tags": ["anthropic", "agent-skills", "claude", "framework"],
+  "category": "framework_update",
+  "status": "draft",
+  "collected_at": "2026-06-01T08:00:00Z",
+  "reviewed_at": null,
+  "published_at": null,
+  "metadata": {
+    "score": 9,
+    "highlights": [
+      "定义 Agent Skills 行业规范，推动技能生态标准化",
+      "文档技能公开了 Claude 文档功能底层实现",
+      "Plugin Marketplace 一键安装，接入门槛极低"
+    ],
+    "popularity": "144592 stars",
+    "related_ids": [],
+    "review_note": null
+  }
+}

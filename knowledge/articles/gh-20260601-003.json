@@ -1,0 +1,24 @@
+{
+  "id": "gh-20260601-003",
+  "title": "MoneyPrinterTurbo：AI 一键生成高清短视频",
+  "source_url": "https://github.com/harry0703/MoneyPrinterTurbo",
+  "source_type": "github_trending",
+  "summary": "利用 AI 大模型一键生成高清短视频的开源工具，覆盖文案生成、素材匹配、字幕制作到背景音乐合成全流程自动化。支持竖屏/横屏、批量生成、中英双语，兼容十余种 LLM 提供商，提供 Web UI 和 API 双接口。",
+  "tags": ["video-generation", "llm", "automation", "tts"],
+  "category": "tool",
+  "status": "draft",
+  "collected_at": "2026-06-01T08:00:00Z",
+  "reviewed_at": null,
+  "published_at": null,
+  "metadata": {
+    "score": 7,
+    "highlights": [
+      "文案到成片全流程自动化，真正一键生成",
+      "兼容十余种 LLM 提供商，部署灵活",
+      "Web UI + API 双接口，兼顾小白和集成需求"
+    ],
+    "popularity": "73551 stars",
+    "related_ids": [],
+    "review_note": null
+  }
+}

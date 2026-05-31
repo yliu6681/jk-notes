@@ -1,0 +1,92 @@
+[
+  {
+    "title": "anthropics/skills",
+    "url": "https://github.com/anthropics/skills",
+    "source_type": "github_trending",
+    "popularity_value": 144592,
+    "popularity_unit": "stars",
+    "summary": "Anthropic 官方 Agent Skills 公共仓库，提供可复用的代理技能模块",
+    "collected_at": "2026-06-01T08:00:00Z"
+  },
+  {
+    "title": "anthropics/claude-code",
+    "url": "https://github.com/anthropics/claude-code",
+    "source_type": "github_trending",
+    "popularity_value": 128723,
+    "popularity_unit": "stars",
+    "summary": "Anthropic 推出的 Agent 化编码工具，在终端中理解代码库并通过自然语言执行任务",
+    "collected_at": "2026-06-01T08:00:00Z"
+  },
+  {
+    "title": "harry0703/MoneyPrinterTurbo",
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+    "source_type": "github_trending",
+    "popularity_value": 73551,
+    "popularity_unit": "stars",
+    "summary": "利用 AI 大模型一键生成高清短视频，支持从文案到成片全流程自动化",
+    "collected_at": "2026-06-01T08:00:00Z"
+  },
+  {
+    "title": "Genesis-Embodied-AI/genesis-world",
+    "url": "https://github.com/Genesis-Embodied-AI/genesis-world",
+    "source_type": "github_trending",
+    "popularity_value": 29108,
+    "popularity_unit": "stars",
+    "summary": "面向通用机器人与具身 AI 学习的仿真平台，支持多种物理场景模拟",
+    "collected_at": "2026-06-01T08:00:00Z"
+  },
+  {
+    "title": "anthropics/claude-plugins-official",
+    "url": "https://github.com/anthropics/claude-plugins-official",
+    "source_type": "github_trending",
+    "popularity_value": 28926,
+    "popularity_unit": "stars",
+    "summary": "Anthropic 官方管理的高质量 Claude Code 插件目录",
+    "collected_at": "2026-06-01T08:00:00Z"
+  },
+  {
+    "title": "shiyu-coder/Kronos",
+    "url": "https://github.com/shiyu-coder/Kronos",
+    "source_type": "github_trending",
+    "popularity_value": 27734,
+    "popularity_unit": "stars",
+    "summary": "金融市场语言的基础模型，面向金融领域的 AI 大模型",
+    "collected_at": "2026-06-01T08:00:00Z"
+  },
+  {
+    "title": "agentscope-ai/agentscope",
+    "url": "https://github.com/agentscope-ai/agentscope",
+    "source_type": "github_trending",
+    "popularity_value": 25902,
+    "popularity_unit": "stars",
+    "summary": "构建和运行可可视化、可理解、可信任的 Agent 框架",
+    "collected_at": "2026-06-01T08:00:00Z"
+  },
+  {
+    "title": "rohitg00/ai-engineering-from-scratch",
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "source_type": "github_trending",
+    "popularity_value": 25528,
+    "popularity_unit": "stars",
+    "summary": "从零学习 AI 工程的教程项目，涵盖学习、构建到交付全流程",
+    "collected_at": "2026-06-01T08:00:00Z"
+  },
+  {
+    "title": "Imbad0202/academic-research-skills",
+    "url": "https://github.com/Imbad0202/academic-research-skills",
+    "source_type": "github_trending",
+    "popularity_value": 24991,
+    "popularity_unit": "stars",
+    "summary": "面向 Claude Code 的学术研究技能，覆盖研究、写作、审阅、修改到定稿全流程",
+    "collected_at": "2026-06-01T08:00:00Z"
+  },
+  {
+    "title": "OpenBMB/VoxCPM",
+    "url": "https://github.com/OpenBMB/VoxCPM",
+    "source_type": "github_trending",
+    "popularity_value": 23250,
+    "popularity_unit": "stars",
+    "summary": "无 Tokenizer 的多语言语音生成 TTS 模型，支持创意语音设计与克隆",
+    "collected_at": "2026-06-01T08:00:00Z"
+  }
+]

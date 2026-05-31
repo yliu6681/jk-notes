@@ -1,0 +1,24 @@
+{
+  "id": "gh-20260601-005",
+  "title": "Claude Plugins Official：Anthropic 官方插件市场",
+  "source_url": "https://github.com/anthropics/claude-plugins-official",
+  "source_type": "github_trending",
+  "summary": "Anthropic 官方管理的高质量 Claude Code 插件目录，包含内部插件和第三方外部插件。采用标准化插件结构，支持 /plugin install 一键安装和 skill-bundle 模式将已有 SKILL.md 仓库快速封装为插件。第三方提交需通过质量和安全审核。",
+  "tags": ["anthropic", "claude-code", "plugin", "marketplace"],
+  "category": "framework_update",
+  "status": "draft",
+  "collected_at": "2026-06-01T08:00:00Z",
+  "reviewed_at": null,
+  "published_at": null,
+  "metadata": {
+    "score": 8,
+    "highlights": [
+      "官方托管插件市场，质量和安全审核保障",
+      "skill-bundle 模式降低存量技能插件化门槛",
+      "标准化插件结构统一 commands/agents/skills 组织"
+    ],
+    "popularity": "28926 stars",
+    "related_ids": [],
+    "review_note": null
+  }
+}

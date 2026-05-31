@@ -1,0 +1,24 @@
+{
+  "id": "gh-20260601-008",
+  "title": "AI Engineering from Scratch：473 节课全栈 AI 工程教程",
+  "source_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+  "source_type": "github_trending",
+  "summary": "从零学习 AI 工程的开源教程项目，473 节课、20 阶段、约 320 小时，覆盖从线性代数到自主 Agent 群的完整路径。四种语言实现，每节课先手写数学推导再使用生产库，产出可复用制品（prompt/skill/agent/MCP server）。MIT 开源。",
+  "tags": ["education", "ai-engineering", "tutorial", "mcp"],
+  "category": "tool",
+  "status": "draft",
+  "collected_at": "2026-06-01T08:00:00Z",
+  "reviewed_at": null,
+  "published_at": null,
+  "metadata": {
+    "score": 7,
+    "highlights": [
+      "473 节课全栈覆盖，数学基础到自主系统",
+      "每节课产出可复用制品（prompt/skill/agent/MCP server）",
+      "内置分级测试和自检技能，个性化学习路径"
+    ],
+    "popularity": "25528 stars",
+    "related_ids": [],
+    "review_note": null
+  }
+}

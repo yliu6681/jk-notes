@@ -1,0 +1,24 @@
+{
+  "id": "gh-20260601-006",
+  "title": "Kronos：首个金融 K 线开源基础模型（AAAI 2026）",
+  "source_url": "https://github.com/shiyu-coder/Kronos",
+  "source_type": "github_trending",
+  "summary": "首个面向金融市场 K 线数据的开源基础模型，在 45+ 全球交易所数据上预训练。采用两阶段框架：专用 Tokenizer 将 OHLCV 数据量化为层次化离散 token，再通过自回归 Transformer 预训练。AAAI 2026 接收，提供 mini 至 large 四个规模模型。",
+  "tags": ["finance", "foundation-model", "time-series", "kronos", "paper"],
+  "category": "paper",
+  "status": "draft",
+  "collected_at": "2026-06-01T08:00:00Z",
+  "reviewed_at": null,
+  "published_at": null,
+  "metadata": {
+    "score": 8,
+    "highlights": [
+      "首个金融 K 线开源基础模型，填补垂直领域空白",
+      "AAAI 2026 接收，学术工程双重验证",
+      "两阶段 tokenizer+transformer 框架处理金融高噪声"
+    ],
+    "popularity": "27734 stars",
+    "related_ids": [],
+    "review_note": null
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "gh-20260601-007",
+  "title": "AgentScope 2.0：阿里达摩院生产级 Agent 框架",
+  "source_url": "https://github.com/agentscope-ai/agentscope",
+  "source_type": "github_trending",
+  "summary": "AgentScope 2.0 是阿里达摩院推出的生产级 Agent 框架，内置 ReAct Agent、工具集、技能、人机协同、记忆、规划、实时语音、评估和模型微调。原生支持 MCP 和 A2A 协议，提供多租户 Agent 服务和 Web UI。v2.0.0 于 2026 年 5 月发布。",
+  "tags": ["agent", "framework", "mcp", "a2a", "agentscope"],
+  "category": "framework_update",
+  "status": "draft",
+  "collected_at": "2026-06-01T08:00:00Z",
+  "reviewed_at": null,
+  "published_at": null,
+  "metadata": {
+    "score": 8,
+    "highlights": [
+      "原生支持 MCP + A2A 双协议，生态兼容性强",
+      "内置微调能力，Agent 开发到优化全链路覆盖",
+      "多租户 Agent 服务 + Web UI，开箱即用"
+    ],
+    "popularity": "25902 stars",
+    "related_ids": [],
+    "review_note": null
+  }
+}

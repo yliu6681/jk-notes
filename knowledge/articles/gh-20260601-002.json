@@ -1,0 +1,24 @@
+{
+  "id": "gh-20260601-002",
+  "title": "Claude Code：Anthropic Agent 化终端编码工具",
+  "source_url": "https://github.com/anthropics/claude-code",
+  "source_type": "github_trending",
+  "summary": "Anthropic 推出的 Agent 化终端编码工具，能理解代码库并通过自然语言执行日常编码任务、解释复杂代码、处理 Git 工作流。支持终端/IDE/GitHub 三端使用，内置 Plugin 扩展系统。安装方式已从 npm 迁移至官方安装脚本和 Homebrew。",
+  "tags": ["anthropic", "claude-code", "coding-agent", "tool"],
+  "category": "tool",
+  "status": "draft",
+  "collected_at": "2026-06-01T08:00:00Z",
+  "reviewed_at": null,
+  "published_at": null,
+  "metadata": {
+    "score": 9,
+    "highlights": [
+      "三端统一（终端/IDE/GitHub）Agent 化编码体验",
+      "内置 Plugin 系统支持技能和命令扩展",
+      "安装方式迁移至原生脚本，产品成熟度提升"
+    ],
+    "popularity": "128723 stars",
+    "related_ids": [],
+    "review_note": null
+  }
+}

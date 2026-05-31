@@ -1,0 +1,24 @@
+{
+  "id": "gh-20260601-010",
+  "title": "VoxCPM：无 Tokenizer 多语言语音生成模型",
+  "source_url": "https://github.com/OpenBMB/VoxCPM",
+  "source_type": "github_trending",
+  "summary": "无 Tokenizer 的多语言语音生成模型 VoxCPM2，2B 参数，基于 MiniCPM-4 骨干，在 200 万+小时语音数据上训练。采用扩散自回归架构直接生成连续语音表示，支持 30 种语言、语音设计、可控语音克隆、48kHz 输出。RTF 低至 0.13，支持 vLLM-Omni 生产部署。Apache-2.0。",
+  "tags": ["tts", "speech", "openbmb", "multilingual", "diffusion"],
+  "category": "framework_update",
+  "status": "draft",
+  "collected_at": "2026-06-01T08:00:00Z",
+  "reviewed_at": null,
+  "published_at": null,
+  "metadata": {
+    "score": 8,
+    "highlights": [
+      "无 Tokenizer 端到端连续语音生成，音质更自然",
+      "30 语言 + 语音设计 + 可控克隆，功能全面",
+      "48kHz 原生输出 + vLLM-Omni 生产级部署支持"
+    ],
+    "popularity": "23250 stars",
+    "related_ids": [],
+    "review_note": null
+  }
+}
